@@ -1,0 +1,25 @@
+#card{
+	background-color: #deeeff;
+}
+.test{
+	padding: 2% 3%;
+}
+.card-deck{
+	text-align: center;
+}
+#features{
+	padding: 7% 15%;
+}
+.feature-box{
+	text-align: center;
+	padding: 4.5%;
+}
+#insta{
+color: #8a3ab9;
+}
+#fb{
+color: #3399ff;
+}
+#ei{
+color: #ff9999;
+}
